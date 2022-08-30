@@ -13,8 +13,6 @@
 
 ## Stylistic sets | استایل ست ها
 ![style-set](https://user-images.githubusercontent.com/100155793/187271941-0f3e5938-cc92-4d99-bd2c-cfd5c6231e7b.png)
-استایلیک ست ها:.
-
 استایل ست ۱ : فارسی کردن تمام اعداد عربی و انگلیسی
 
 استایل ست ۲ : مونو اسپیس تمام اعداد
