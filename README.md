@@ -4,8 +4,8 @@
 
 ## مقایسه فونت رویین با فونت های مشابه
 ![moghayese2](https://user-images.githubusercontent.com/100155793/190956312-0fd90a71-7ce0-4f27-b150-992bbe21d6ff.png)
-![moghayese1](https://user-images.githubusercontent.com/100155793/190956367-e1ef7c53-39fa-4b40-8f2f-ab8df5be84a5.png)
-فونت رویین از ساختار محکم تر و تمیز تری برخوردار است.
+![moghayese2](https://user-images.githubusercontent.com/100155793/190956955-27bf20c0-68e9-4f2c-88ce-f5c98c635e95.png)
+فونت رویین از ساختار محکم تر و تمیز تری برخوردار است و شامل تنظیم محل اِعراب گذاری و کرنینگ نیز هست 
 
 ## Pixelness | پیکسلی شدن
 ![pixelness](https://user-images.githubusercontent.com/100155793/187129941-df639be9-456d-470e-a667-963384bcd4d6.png)
