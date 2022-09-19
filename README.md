@@ -2,6 +2,11 @@
 ![Rooyin-sample](https://user-images.githubusercontent.com/100155793/187025829-c6bdaaf5-feba-4184-9b67-a9d9fdb83b2b.png)
 رویین یک تایپ فیس پیکسلی است که مجموعاً در چهار حالت مختلف انگلیسی - عربی استاندارد و یک نسخه متغیر (Pixelness:pixl / Dot Style:dtys) است. رویین از طیف مناسبی از یونیکد برای زبان عربی پشتیبانی میکند. با اینکه فونت رویین ، یک فونت پیکسلی است ، اما طراحی ساده و خوانایی دارد.
 
+## مقایسه فونت رویین با فونت های مشابه
+![moghayese2](https://user-images.githubusercontent.com/100155793/190956312-0fd90a71-7ce0-4f27-b150-992bbe21d6ff.png)
+![moghayese1](https://user-images.githubusercontent.com/100155793/190956367-e1ef7c53-39fa-4b40-8f2f-ab8df5be84a5.png)
+فونت رویین از ساختار محکم تر و تمیز تری برخوردار است.
+
 ## Pixelness | پیکسلی شدن
 ![pixelness](https://user-images.githubusercontent.com/100155793/187129941-df639be9-456d-470e-a667-963384bcd4d6.png)
 در رویین دو محور متغیر وجود دارد که یکی از آنها محور Pixelness:pixl است. این محور فونت را به سمت پیکسلی شدن و چارچوب های خاص نزدیک میکند. pixelness0 زیباترین حالت و pixelness 10 قائده مند است.
