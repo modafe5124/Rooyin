@@ -44,3 +44,5 @@
 ## بروزرسانی
 رفع مشکلات گزارش شده
 در نسخه بعدی فونت ، محور وزن اضافه میشود
+
+<a href="https://github.com/modafe5124/Rooyin/archive/refs/tags/v0.9.1beta.zip">بارگیری فونت</a>
