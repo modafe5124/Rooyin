@@ -21,6 +21,7 @@
 یکی دیگر از محور های متغیر Dot Style:dsty است. با جابه‌جا کردن این محور ، نوع و حالت نقاط تغییر خواهد کرد.
 
 <h1 id="style-set" > Stylistic sets | استایل ست ها</h1>
+
 ![style-set](https://user-images.githubusercontent.com/100155793/187271941-0f3e5938-cc92-4d99-bd2c-cfd5c6231e7b.png)
 
 
