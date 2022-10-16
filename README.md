@@ -22,6 +22,8 @@
 
 <h1 id="style-set" > Stylistic sets | استایل ست ها</h1>
 ![style-set](https://user-images.githubusercontent.com/100155793/187271941-0f3e5938-cc92-4d99-bd2c-cfd5c6231e7b.png)
+
+
 استایل ست ۱ : فارسی کردن تمام اعداد عربی و انگلیسی
 
 استایل ست ۲ : مونو اسپیس تمام اعداد
