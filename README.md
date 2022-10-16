@@ -1,3 +1,6 @@
+<a href="#style-set">استایل ست ها </a> <br />
+<a href="#download">بارگیری قلم</a>
+
 # Rooyin | رویین
 ![Rooyin-sample](https://user-images.githubusercontent.com/100155793/187025829-c6bdaaf5-feba-4184-9b67-a9d9fdb83b2b.png)
 رویین یک تایپ فیس پیکسلی است که مجموعاً در چهار حالت مختلف انگلیسی - عربی استاندارد و یک نسخه متغیر (Pixelness:pixl / Dot Style:dtys) ساخته شده است. با اینکه فونت رویین ، یک فونت پیکسلی است ، اما طراحی ساده و خوانایی دارد.
@@ -17,7 +20,7 @@
 
 یکی دیگر از محور های متغیر Dot Style:dsty است. با جابه‌جا کردن این محور ، نوع و حالت نقاط تغییر خواهد کرد.
 
-## Stylistic sets | استایل ست ها
+<h1 id="style-set" > Stylistic sets | استایل ست ها</h1>
 ![style-set](https://user-images.githubusercontent.com/100155793/187271941-0f3e5938-cc92-4d99-bd2c-cfd5c6231e7b.png)
 استایل ست ۱ : فارسی کردن تمام اعداد عربی و انگلیسی
 
@@ -45,4 +48,4 @@
 رفع مشکلات گزارش شده
 در نسخه بعدی فونت ، محور وزن اضافه میشود
 
-<a href="https://github.com/modafe5124/Rooyin/archive/refs/tags/v0.9.1beta.zip">بارگیری فونت</a>
+<a id="download" href="https://github.com/modafe5124/Rooyin/archive/refs/tags/v0.9.1beta.zip">بارگیری فونت</a>
